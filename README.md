@@ -8,5 +8,7 @@ download the logisim in your pc from the given link below
 
 https://logisimevolution.com/download/
 
-### run 
-Run the programs and files using jre
+## run 
+download the zip file and extract it in a folder then run it with logisim 
+### if it does not show logisim
+open the logisim in downloads page and open it with java background then from the file menu open the files from extracted
