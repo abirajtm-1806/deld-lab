@@ -12,3 +12,5 @@ https://logisimevolution.com/download/
 download the zip file and extract it in a folder then run it with logisim 
 ### if it does not show logisim
 open the logisim in downloads page and open it with java background then from the file menu open the files from extracted
+
+By this readme update i have 100 contributions in this year
